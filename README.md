@@ -10,8 +10,15 @@ Fire Extinguisher Mount
 
 This direclty mounts to the rear rails of the passanger seat. 
 
- <img width="320" align="left" src="fire_extingisher_mount/images/mount1.jpg" text="Left image"><img width="320" align="right" src="fire_extingisher_mount/images/mount2.JPG" text="Right image">
- <img width="320" align="left" src="fire_extingisher_mount/images/mount3.JPG" text="Left image"><img width="320" align="right" src="fire_extingisher_mount/images/mount4.JPG" text="Right image">
+ <p align="center">
+  <img src="fire_extinguisher_mount/images/mount1.jpg" width="300" />
+  <img src="fire_extinguisher_mount/images/mount2.JPG" width="250" />
+</p>
+
+<p align="center">
+  <img src="fire_extinguisher_mount/images/mount4.JPG" width="250" />
+  <img src="fire_extinguisher_mount/images/mount3.JPG" width="300" />
+</p>
 
 Assembly Requires the Following Items:
 - Fire extinguisher and the mounting bracket (I used a [First Alert](https://www.firstalert.com/))
