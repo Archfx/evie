@@ -2,7 +2,7 @@
 # Camaro6 CAD files
 ### EVIE is my 6<sup>th</sup> gen Camaro
 
-This repository contains different CAD models that I have created for 6th gen Camaros with [alpha chassis](https://en.wikipedia.org/wiki/General_Motors_Alpha_platform). 
+This repository contains various CAD models I have designed for 6th-generation Camaros built on the [alpha platform](https://en.wikipedia.org/wiki/General_Motors_Alpha_platform). 
 These models were created using [FreeCAD](https://www.freecad.org/). 
 
 Fire Extinguisher Mount
