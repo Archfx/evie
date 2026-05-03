@@ -8,7 +8,7 @@ These models were created using [FreeCAD](https://www.freecad.org/).
 Fire Extinguisher Mount
 ---
 
-This direclty mounts to the rear rails of the passanger seat. 
+This directly mounts to the rear rails of the passenger seat. 
 
  <p align="center">
   <img src="fire_extinguisher_mount/images/mount1.jpg" width="310" />
