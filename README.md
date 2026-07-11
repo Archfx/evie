@@ -3,7 +3,20 @@
 ### EVIE is my 6<sup>th</sup> gen Camaro
 
 This repository contains various CAD models I have designed for 6th-generation Camaros built on the [alpha platform](https://en.wikipedia.org/wiki/General_Motors_Alpha_platform). 
-These models were created using [FreeCAD](https://www.freecad.org/). 
+These models were created using [FreeCAD](https://www.freecad.org/) and [KiCad](https://www.kicad.org/). 
+
+
+Electric Vacuum Pump
+---
+
+The mount is designed for installing the GM electric vacuum pump from the C7 Corvette onto 6th-generation LTG Camaros. It attaches directly to the existing bolt holes in the passenger-side engine compartment, next to the downpipe. No additional drilling is required.
+
+ <p align="center">
+  <img src="electric_vacuum_pump/images/sensor.JPG" width="280" />
+  <img src="electric_vacuum_pump/images/connector.JPG" width="280" />
+  <img src="electric_vacuum_pump/images/controller.JPG" width="280" />
+</p>
+
 
 Fire Extinguisher Mount
 ---
@@ -29,7 +42,4 @@ Assembly Requires the Following Items:
 
 Note: You may need to slightly enlarge the left rail bolt hole to accommodate a 6 mm standoff. Alternatively, a 5 mm standoff can be used without any modification.
 
-Vacuum Pump Mount
----
 
-This mount is designed for installing the GM electric vacuum pump from the C7 Corvette onto 6th-generation LTG Camaros. It attaches directly to the existing bolt holes in the passenger-side engine compartment, next to the downpipe. No additional drilling is required.
