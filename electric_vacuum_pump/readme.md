@@ -4,8 +4,6 @@ Relay Box Parts
 
 - CID101-2.8-FS4 Original Yazaki 7116-4153-02 Terminal, YESC 2.8 mm, Female, 3.0 - 4.0 mm² × 2
 
-- MTA 1708500-L Female Terminal, 630 Series, Unsealed, 0.35 - 0.5 mm² × 6
-
 - MTA 0301504 MiniVAL / Mini Relay Gray Module × 1
 
 - CID101-2.8-MS4 Original Yazaki 7114-4153-02 Terminal , Male, 3.0 - 4.0 mm² × 4
